@@ -48,7 +48,7 @@ L'évaluation du travail est effectuée par les enseignants de l'UE en se basant
   
   - Français: fautes grammaticales ou syntaxiques
   - Clarté et précision des explications
-  - Schéma du circuit: doit pouvoir être assembler par un étranger
+  - Schéma du circuit: doit pouvoir être assemblé par un étranger
   - Mise en page et présentation selon les normes du cégep
   - etc.
 
@@ -59,7 +59,7 @@ L'évaluation du travail est effectuée par les enseignants de l'UE en se basant
   - Explication orale
   - etc.
  
-- Participation au code : la participation est évaluée en utilisant GitInspector. Chaque étudiant doit être au dessus de 45% de participation ou vera sa note ajustée. Les codes faits en classe lors des exercices sont enlevés des statistiques pour ne pas pénaliser le partenaire qui ne met pas son ancien code. (Ex. Bouton.\[h|cpp], DEL.\[h|cpp])
+- Participation au code : la participation est évaluée en utilisant GitInspector. Chaque étudiant doit être au dessus de 45% de participation ou verra sa note ajustée. Les codes faits en classe lors des exercices sont enlevés des statistiques pour ne pas pénaliser le partenaire qui ne met pas son ancien code. (Ex. Bouton.\[h|cpp], DEL.\[h|cpp])
 
 Tout partage de code, d'explications, de bouts de texte, etc. est considéré comme du plagiat. Pour plus de détails, consultez le site (et ses vidéos) [Sois intègre du Cégep de Sainte-Foy](http://csfoy.ca/soisintegre) ainsi que [l'article 6.1.12 de la PÉA](https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/5.9_PolitiqueEvaluationApprentissages_2019.pdf)
 
@@ -90,7 +90,7 @@ Des DELs rouge et verte clignotent selon différents scénarios afin de guider l
 
 - Au démarrage du programme, la serrure est verrouillée. Elle est en mode ```saisie du code```. Une DEL rouge clignote selon l'alternance suivante: dix (10) secondes allumée, une (1) seconde éteinte, et reprise du cycle aussi longtemps que la combinaison n'est pas complétée. La DEL verte est éteinte durant ce cycle.
 - Pour déverrouiller la serrure, l'utilisateur appuie en séquence sur les boutons pour obtenir une combinaison à quatre (4) valeurs. Si la combinaison est correcte, la DEL rouge s'éteint et la DEL verte s'allume pour indiquer que la serrure est déverrouillée. L'état déverrouillée n'est actif que pendant cinq (5) secondes. Une fois ce délai passé, la serrure reprend son mode ```saisie du code```.
-- En cas d'échec, il faut attendre 10 secondes avant de pouvoir saisir une nouvelle combinaison. Évidemment, les saisies sont ignorée durant cette période et la serrure reste verrouillé ! La DEL clignote à une fréquence de deux (2) Hertz pour indiquer le blocage. À la deuxième tentative, le temps d'attente passe à trente (30) secondes, puis à une (1) minute pour la troisième tentative. Après trois tentatives infructueuses, la serrure se bloque pour une durée de cinq (5) minutes.
+- En cas d'échec, il faut attendre 10 secondes avant de pouvoir saisir une nouvelle combinaison. Évidemment, les saisies sont ignorées durant cette période et la serrure reste verrouillée ! La DEL clignote à une fréquence de deux (2) Hertz pour indiquer le blocage. À la deuxième tentative, le temps d'attente passe à trente (30) secondes, puis à une (1) minute pour la troisième tentative. Après trois tentatives infructueuses, la serrure se bloque pour une durée de cinq (5) minutes.
 
 ### 2.2 - Modification du code
 
@@ -121,7 +121,7 @@ Proposer et implanter la fonctionnalité `clefMaitre` pour permettre aux adminis
 
 ## 3 - Description détaillée du document à remettre
 
-Le document word doit décrire le contexte du projet, sa planification, la répartition des tâches avec un registre des heures passées, les schémas du montage, les diagrammes UML pertinents ainsi que l'inventaire des composants et une estimation des coûts pour une pompe
+Le document word doit décrire le contexte du projet, sa planification, la répartition des tâches avec un registre des heures passées, les schémas du montage, les diagrammes UML pertinents ainsi que l'inventaire des composants et une estimation des coûts pour une sérure.
 
 ## 4 - Répartition des points
 
